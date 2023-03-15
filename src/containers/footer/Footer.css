@@ -1,0 +1,13 @@
+.gpt3__footer{
+    border: 1px solid  white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background:var(--color-footer);
+}
+.gpt3__footer-heading{
+    width: 100%;
+    text-align: center;
+    margin-bottom:3rem ;
+}
