@@ -1,3 +1,7 @@
+# Full responsive webpage. For seeing project click the link given below 
+
+https://gpt3-webpage-1921.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
